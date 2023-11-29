@@ -1,0 +1,14 @@
+C:\Users\clt\source\repos\ConsoleApp18\SingletonCountVisitor\bin\Debug\net6.0\SingletonCountVisitor.exe
+C:\Users\clt\source\repos\ConsoleApp18\SingletonCountVisitor\bin\Debug\net6.0\SingletonCountVisitor.deps.json
+C:\Users\clt\source\repos\ConsoleApp18\SingletonCountVisitor\bin\Debug\net6.0\SingletonCountVisitor.runtimeconfig.json
+C:\Users\clt\source\repos\ConsoleApp18\SingletonCountVisitor\bin\Debug\net6.0\SingletonCountVisitor.dll
+C:\Users\clt\source\repos\ConsoleApp18\SingletonCountVisitor\bin\Debug\net6.0\SingletonCountVisitor.pdb
+C:\Users\clt\source\repos\ConsoleApp18\SingletonCountVisitor\obj\Debug\net6.0\SingletonCountVisitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clt\source\repos\ConsoleApp18\SingletonCountVisitor\obj\Debug\net6.0\SingletonCountVisitor.AssemblyInfoInputs.cache
+C:\Users\clt\source\repos\ConsoleApp18\SingletonCountVisitor\obj\Debug\net6.0\SingletonCountVisitor.AssemblyInfo.cs
+C:\Users\clt\source\repos\ConsoleApp18\SingletonCountVisitor\obj\Debug\net6.0\SingletonCountVisitor.csproj.CoreCompileInputs.cache
+C:\Users\clt\source\repos\ConsoleApp18\SingletonCountVisitor\obj\Debug\net6.0\SingletonCountVisitor.dll
+C:\Users\clt\source\repos\ConsoleApp18\SingletonCountVisitor\obj\Debug\net6.0\refint\SingletonCountVisitor.dll
+C:\Users\clt\source\repos\ConsoleApp18\SingletonCountVisitor\obj\Debug\net6.0\SingletonCountVisitor.pdb
+C:\Users\clt\source\repos\ConsoleApp18\SingletonCountVisitor\obj\Debug\net6.0\SingletonCountVisitor.genruntimeconfig.cache
+C:\Users\clt\source\repos\ConsoleApp18\SingletonCountVisitor\obj\Debug\net6.0\ref\SingletonCountVisitor.dll
